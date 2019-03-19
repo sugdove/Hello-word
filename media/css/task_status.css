@@ -1,0 +1,119 @@
+.btn-group>.btn{
+    margin-right: 14px;
+}
+.vcid_show{
+    color:blue;
+}
+.run{
+}
+.row-details.row-details-close {
+    background: url(../image/datatable-row-openclose.png) no-repeat 0 0;
+}
+.details>table{
+    float: left !important;
+    display: block !important;
+    padding: 12px !important;
+}
+.cchange{
+    display: none;
+    cursor: pointer;
+    transition:transform 1s !important;
+}
+.details_tr{
+}
+.details_tr:hover{
+    background-color:red;
+}
+.mmm>.dropdown-menu li > a {
+    padding:6px 0 12px 13px !important;
+}
+.dropdown-menu {
+    min-width: 129px !important;
+}
+.dropdown-menu>li>a>i{
+    margin-left: -1px;
+    margin-right: 6px;
+}
+.fa-clock-o:before{
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.glyphicon-hand-up:before {
+    margin-right: 4px;
+}
+.mmm{
+    margin-bottom: 0px !important;
+}
+.btn-group{
+    margin-bottom: 10px;
+}
+.table th, .table td {
+    vertical-align: inherit !important;
+}
+.pad{
+    padding:5px 13px !important;
+    background-color: #45b6af !important;
+}
+
+.btn .caret {
+    margin-left: 4px;
+}
+.fa-angle-down:before {
+    margin-left: 3px;
+}
+.table thead tr th {
+    font-size: 14px;
+    font-weight: 600;
+}
+.cstart{
+    display: none;
+    cursor: pointer;
+    transition:transform 1s
+}
+.bkid_1{
+    display: none;
+}
+
+.btn.red{
+    transition:transform 1s;
+}
+.btn.red:hover{
+    transform:translate(10px);
+}
+.btn.green{
+    transition:transform 1s;
+}
+.btn.green:hover{
+    transform:translate(10px);
+}
+.btn.btn.yellow.pad{
+    transition:transform 1s;
+}
+.btn.btn.yellow.pad:hover{
+    transform: scale(1.1,1.1)  translate(8px);
+}
+.dropdown-menu>li{
+    transition:transform 1s,background 1s;
+}
+.dropdown-menu>li:hover{
+    transform: scale(1.1,1.1);
+    background: #eee !important;
+}
+.row-details.row-details-close{
+    transition:transform 1s
+}
+.row-details.row-details-close:hover{
+    transform: scale(1.1,1.1) translate(6px);
+}
+.row-details.row-details-open{
+    transition:transform 1s
+}
+.row-details.row-details-open:hover{
+    transform: scale(1.1,1.1) translate(6px);
+}
+.cchange:hover{
+    transform: scale(1.1,1.1) translate(2px);
+}
+.cstart:hover{
+    transform: scale(1.1,1.1) translate(2px);
+}

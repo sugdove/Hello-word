@@ -1,0 +1,28 @@
+.pad{
+    padding:5px 13px !important;
+    background-color: #45b6af !important;
+}
+.glyphicon-hand-up:before {
+    margin-right: 4px;
+}
+.fa-angle-down:before {
+    margin-left: 3px;
+}
+.mmm>.dropdown-menu li > a {
+    padding: 14px 0 12px 13px !important;
+    font-size: 15px !important;
+
+}
+.fa-plus:before {
+    margin-right: 9px;
+}
+.fa-mail-forward:before, .fa-share:before {
+    margin-right: 6px;
+}
+.mmm{
+    margin-bottom: 0px !important;
+}
+.ccc{
+    width: 84px;
+    height: 30px;
+}

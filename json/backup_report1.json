@@ -1,0 +1,1730 @@
+[
+  {
+    "isbackup": "1",
+    "vmname": "c220908",
+    "creatime": "2017-07-03 16:04:36.0",
+    "Strategy": "ttttttt",
+    "bktype": "2",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul2",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul3",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "filerestorlinuxtest",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "centos7docker1.214",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "docker.centos6.6",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul4",
+    "creatime": "2017-07-03 16:44:29.0",
+    "Strategy": "qweqwe",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "win7x64_test_cdyanfa",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "2003_x64_N01_331234_125",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "vm_cd_dev_monitor01",
+    "creatime": "2017-07-06 11:31:51.0",
+    "Strategy": "66663",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "vm_cd_dev_monitor01",
+    "creatime": "2017-07-06 11:31:51.0",
+    "Strategy": "66663",
+    "bktype": "2",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "vm_cd_dev_monitor01",
+    "creatime": "2017-07-06 11:31:51.0",
+    "Strategy": "66663",
+    "bktype": "3",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_x64_cdyanfa_47",
+    "creatime": "2017-07-13 13:49:33.0",
+    "Strategy": "manual",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_x64_cdyanfa_47",
+    "creatime": "2017-07-13 13:50:21.0",
+    "Strategy": "manual",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "centos6.4_x64_ambaimServer_60",
+    "creatime": "2017-07-13 13:51:44.0",
+    "Strategy": "ggggg",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k02_33@工程文件",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "c220904",
+    "creatime": "2017-07-06 15:24:26.0",
+    "Strategy": "zxc",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "c220904",
+    "creatime": "2017-07-06 15:24:26.0",
+    "Strategy": "zxc",
+    "bktype": "2",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "windows_share",
+    "creatime": "2017-07-13 13:49:46.0",
+    "Strategy": "manual",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "windows_share",
+    "creatime": "2017-07-13 13:52:43.0",
+    "Strategy": "gggg",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "windows_share",
+    "creatime": "2017-07-13 13:52:43.0",
+    "Strategy": "gggg",
+    "bktype": "2",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "vm_cd_dev_docker02_centos66",
+    "creatime": "2017-07-13 11:18:34.0",
+    "Strategy": "ssss111",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_5.6_x64_k01_331234_90_331234",
+    "creatime": "2017-07-13 13:49:18.0",
+    "Strategy": "manual",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "hbaseManager_develop1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_6.3_k00_cdyanfa_127_vmware开发",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "Centos6.6_64_Dsync_Clien",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "centos64_x64_cdyanfa_70",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "Srervice",
+    "creatime": "2017-07-13 13:53:28.0",
+    "Strategy": "555",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "Srervice",
+    "creatime": "2017-07-13 13:53:28.0",
+    "Strategy": "555",
+    "bktype": "2",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_64_4.40",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_oracle1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003_debug(192.168.2.148)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k02_102_Alchemy-Database",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_x64_zabbix_yanfa_82",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k01_111",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_dc(192.168.2.170)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "RestorFile_redhat_6.5_4.32",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vc_kz_21@备份",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "华为备份测试",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CentOS_6.4_64_30_cdyanfa_zabbix_server",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_dream(192.168.2.145)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dev",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_4.7_x32_cdyanfa_01",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_1204_ray_cdyanfa_lianhe_120",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_node2(192.168.2.172)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_docker1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vmDevKit",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "新建虚拟机 1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_DoubleCenter(192.168.2.214)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "1",
+    "vmname": "window7x64_cdyanfa_北京dev2",
+    "creatime": "2017-07-06 11:07:31.0",
+    "Strategy": "qwe",
+    "bktype": "3",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器1号_117",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6.4_x64_zabbix_test_83",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-linux-admindsg22",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_1_50_gluster_测试",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "streamflow",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh03",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh02",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh04",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2003_x64_N02_331234_151",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu14.oracle.oracle",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "pure2008E(192.168.2.136)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器3号_119",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_win7_1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.5_x64_cdyanfa_svn_228",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_x64_Dsg123456_253",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redHat_6.1_dsync_33",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Microsoft Windows 7 (64-bit)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu14_oracle_oracle",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu_Linux_64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2008_服务器_4.11",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6_x64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dev@wg",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh01",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh00",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "mdrill1_83",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_x64_cdyanfa_230_1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos5.4_32_Dsync (1)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_8_57_gluster_测试",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_win7_nexus1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win7x64_test_cdyanfa_muban",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VinchiDataProtectionSystem",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmFileRestor_Cent6.6_x64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dbfs_debug_together",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_syst3m_02_132_gluster_测试_挂载节点",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器4号_vpnn",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4x32_cdyanfa_Mysql_svn",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.6_X64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003_database(192.168.2.144)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos发布器_25_tomcat",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "HW_R5_test",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "虚拟化发布测试机器",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410304",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cgitlab_22_cdyanfa@108",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Web发布器_数据库_26",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "test111",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_6.3_k01_cdyanfa_128",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_syst3m-02-131 _gluster_测试_挂载",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2012-mssql2014-192.168.2.143",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vpn_server",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "opensslTest",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vmwarebackup_release_6.4",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "filerestortest",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2003_x32_331234",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat5.4_x32_mode",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm-win2008-64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.6_64_Dsync_Service",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_5.6_x64(192.168.2.130)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm-win2003-64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "sco-unix-507(192.168.2.149)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_iscsi(192.168.2.180)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "trainasm_64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "xp_vpn代理_ls1270624493_45",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "train_one_60",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2008_x64_236_Dsg_vpn_远程",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6.4_x64_cdyanfa_mini",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "mdrill2_84",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_muban",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N03_Dsg123456_184",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_K01_Dsg123456_177",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k01_140_svn",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat4x_xxx_cdyanfa_02",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "new_vcenter",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_04_134_vmware_测试",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "tars1_80",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "tars2",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata6",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x32_N01_cdyanfa",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器2号_113",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata5",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redHat_6.4_dsync_34",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata4",
+    "creatime": "2017-06-30 17:52:29.0",
+    "Strategy": "manual",
+    "bktype": "1",
+    "RunNum": "0"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata3",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_centos6.6_64_template",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_3_52_gluster_打包机器",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_01_133_gluster_测试安装验证_主机gmc",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_01",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "新建虚拟机",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_02",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cd_dev_docker2",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu14_oracle_oracle_124",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_03",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmfileRestort",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_04",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_05",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_06",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "oracle",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6docker1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器4号",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "OpsManage1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "RedHat5_x32(192.168.2.146)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster存储节点_115",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2003_x64_N03_331234_108",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmbackupTmp_Centos6.4_37",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos7",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Vmbackup_development_6.4",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N04_Dsg123456_170",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_150_dev",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_6.4_x64_test",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vdp",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N01_Dsg123456_183",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_node1(192.168.2.171)",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003-exchange-server-192.168.2.147",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_150_gluster_yanfa",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003-sqlserver2005_sp4-192.168.2.149",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "项目进度管理器_30",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "AzkabanWeb",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220906",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c6200G高配模板",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_151_dev",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "test",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410308",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410305",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CRelease",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410307",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410306",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410301",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "new_vcenter_21@正常使用中",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410303",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410302",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_docker1_ubuntu1204",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testttt111",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Red Hat Enterprise Linux 6 64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgypw",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220905",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "chengssh",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220907",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-WIN08_X64_28",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgpyw",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cgitlab_22_cdyanfa",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata2",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window7x64_cdyanfa_北京dev1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testqqq23222211",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220901",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_6.6X68",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220902",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220903",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window2003_125",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CentOS_7_x64",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testqqq11",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows64模板机",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "kafkamc1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-linux-admindsg21",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window7x64_cdyanfa_西安dev1.173.59.160.15_192.168.4.248",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "hbaseManager_develop",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd1",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd7",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd6",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd8",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd2",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd5",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd4",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "eclipse.yanfa.centos6.4",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Vmware_release_6.4_37",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_64_4.39_vmware_test",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd3",
+    "creatime": null,
+    "Strategy": null,
+    "bktype": null,
+    "RunNum": null
+  }
+]

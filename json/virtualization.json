@@ -1,0 +1,22 @@
+[
+  {
+    "vcip": "192.168.2.21",
+    "status": "00000000000",
+    "vccreattime": "2017-07-11 15:22:25.0",
+    "vcid": "011",
+    "type": "1",
+    "vcStorepath": "/vmbkp",
+    "vcuser": "administrator@vsphere.local",
+    "vcpasswd": "1qaz@WSX"
+  },
+  {
+    "vcip": "192.168.2.22",
+    "status": "00000000000",
+    "vccreattime": "2017-07-11 18:13:28.0",
+    "vcid": "014",
+    "type": "1",
+    "vcStorepath": "E:vmbkp2",
+    "vcuser": "suge",
+    "vcpasswd": "asdf2980130"
+  }
+]

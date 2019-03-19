@@ -1,0 +1,8 @@
+{
+  "dbport": "3306",
+  "dbip": "192.168.2.13",
+  "dbpasswd": "root",
+  "dbname": "db_vmbackup",
+  "dbuser": "root",
+  "dbtype":"sqllite"  //"mysql"
+}

@@ -1,0 +1,1047 @@
+[
+  {
+    "isbackup": "1",
+    "vmname": "c220908",
+    "vmid": "vm-346"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul2",
+    "vmid": "vm-663"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul3",
+    "vmid": "vm-664"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "filerestorlinuxtest",
+    "vmid": "vm-611"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "centos7docker1.214",
+    "vmid": "vm-941"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "docker.centos6.6",
+    "vmid": "vm-932"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "consul4",
+    "vmid": "vm-665"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "win7x64_test_cdyanfa",
+    "vmid": "vm-487"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "2003_x64_N01_331234_125",
+    "vmid": "vm-84"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "vm_cd_dev_monitor01",
+    "vmid": "vm-816"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_x64_cdyanfa_47",
+    "vmid": "vm-34"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6.4_x64_ambaimServer_60",
+    "vmid": "vm-39"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k02_33@工程文件",
+    "vmid": "vm-70"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "c220904",
+    "vmid": "vm-341"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows_share",
+    "vmid": "vm-56"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_docker02_centos66",
+    "vmid": "vm-747"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_5.6_x64_k01_331234_90_331234",
+    "vmid": "vm-110"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "hbaseManager_develop1",
+    "vmid": "vm-280"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_6.3_k00_cdyanfa_127_vmware开发",
+    "vmid": "vm-64"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.6_64_Dsync_Clien",
+    "vmid": "vm-297"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos64_x64_cdyanfa_70",
+    "vmid": "vm-50"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Srervice",
+    "vmid": "vm-155"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_64_4.40",
+    "vmid": "vm-517"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_oracle1",
+    "vmid": "vm-601"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003_debug(192.168.2.148)",
+    "vmid": "vm-582"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k02_102_Alchemy-Database",
+    "vmid": "vm-68"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_x64_zabbix_yanfa_82",
+    "vmid": "vm-51"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k01_111",
+    "vmid": "vm-59"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_dc(192.168.2.170)",
+    "vmid": "vm-596"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "RestorFile_redhat_6.5_4.32",
+    "vmid": "vm-506"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vc_kz_21@备份",
+    "vmid": "vm-412"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "华为备份测试",
+    "vmid": "vm-295"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CentOS_6.4_64_30_cdyanfa_zabbix_server",
+    "vmid": "vm-32"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_dream(192.168.2.145)",
+    "vmid": "vm-579"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dev",
+    "vmid": "vm-464"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_4.7_x32_cdyanfa_01",
+    "vmid": "vm-111"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_1204_ray_cdyanfa_lianhe_120",
+    "vmid": "vm-179"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_node2(192.168.2.172)",
+    "vmid": "vm-595"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_docker1",
+    "vmid": "vm-620"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vmDevKit",
+    "vmid": "vm-407"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "新建虚拟机 1",
+    "vmid": "vm-897"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_DoubleCenter(192.168.2.214)",
+    "vmid": "vm-586"
+  },
+  {
+    "isbackup": "1",
+    "vmname": "window7x64_cdyanfa_北京dev2",
+    "vmid": "vm-495"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器1号_117",
+    "vmid": "vm-223"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6.4_x64_zabbix_test_83",
+    "vmid": "vm-54"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-linux-admindsg22",
+    "vmid": "vm-646"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_1_50_gluster_测试",
+    "vmid": "vm-90"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "streamflow",
+    "vmid": "vm-725"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh03",
+    "vmid": "vm-534"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh02",
+    "vmid": "vm-533"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh04",
+    "vmid": "vm-535"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2003_x64_N02_331234_151",
+    "vmid": "vm-78"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu14.oracle.oracle",
+    "vmid": "vm-939"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "pure2008E(192.168.2.136)",
+    "vmid": "vm-592"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器3号_119",
+    "vmid": "vm-225"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_win7_1",
+    "vmid": "vm-125"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.5_x64_cdyanfa_svn_228",
+    "vmid": "vm-71"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_x64_Dsg123456_253",
+    "vmid": "vm-583"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redHat_6.1_dsync_33",
+    "vmid": "vm-627"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Microsoft Windows 7 (64-bit)",
+    "vmid": "vm-146"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu14_oracle_oracle",
+    "vmid": "vm-806"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu_Linux_64",
+    "vmid": "vm-122"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2008_服务器_4.11",
+    "vmid": "vm-408"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6_x64",
+    "vmid": "vm-472"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dev@wg",
+    "vmid": "vm-410"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh01",
+    "vmid": "vm-532"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_cdh00",
+    "vmid": "vm-536"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "mdrill1_83",
+    "vmid": "vm-653"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "ubuntu_x64_cdyanfa_230_1",
+    "vmid": "vm-128"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos5.4_32_Dsync (1)",
+    "vmid": "vm-406"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_8_57_gluster_测试",
+    "vmid": "vm-107"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_win7_nexus1",
+    "vmid": "vm-124"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win7x64_test_cdyanfa_muban",
+    "vmid": "vm-493"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VinchiDataProtectionSystem",
+    "vmid": "vm-685"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmFileRestor_Cent6.6_x64",
+    "vmid": "vm-732"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dbfs_debug_together",
+    "vmid": "vm-565"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_syst3m_02_132_gluster_测试_挂载节点",
+    "vmid": "vm-96"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器4号_vpnn",
+    "vmid": "vm-226"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4x32_cdyanfa_Mysql_svn",
+    "vmid": "vm-439"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.6_X64",
+    "vmid": "vm-301"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003_database(192.168.2.144)",
+    "vmid": "vm-580"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos发布器_25_tomcat",
+    "vmid": "vm-497"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "HW_R5_test",
+    "vmid": "vm-132"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "虚拟化发布测试机器",
+    "vmid": "vm-113"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410304",
+    "vmid": "vm-329"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cgitlab_22_cdyanfa@108",
+    "vmid": "vm-415"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Web发布器_数据库_26",
+    "vmid": "vm-499"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "test111",
+    "vmid": "vm-796"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_6.3_k01_cdyanfa_128",
+    "vmid": "vm-58"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_syst3m-02-131 _gluster_测试_挂载",
+    "vmid": "vm-73"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2012-mssql2014-192.168.2.143",
+    "vmid": "vm-591"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vpn_server",
+    "vmid": "vm-404"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "opensslTest",
+    "vmid": "vm-908"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vmwarebackup_release_6.4",
+    "vmid": "vm-875"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "filerestortest",
+    "vmid": "vm-610"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2003_x32_331234",
+    "vmid": "vm-154"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat5.4_x32_mode",
+    "vmid": "vm-108"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm-win2008-64",
+    "vmid": "vm-555"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.6_64_Dsync_Service",
+    "vmid": "vm-300"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat_5.6_x64(192.168.2.130)",
+    "vmid": "vm-584"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm-win2003-64",
+    "vmid": "vm-554"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "sco-unix-507(192.168.2.149)",
+    "vmid": "vm-588"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_iscsi(192.168.2.180)",
+    "vmid": "vm-593"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "trainasm_64",
+    "vmid": "vm-75"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "xp_vpn代理_ls1270624493_45",
+    "vmid": "vm-76"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "train_one_60",
+    "vmid": "vm-74"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows2008_x64_236_Dsg_vpn_远程",
+    "vmid": "vm-30"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6.4_x64_cdyanfa_mini",
+    "vmid": "vm-38"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "mdrill2_84",
+    "vmid": "vm-654"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_muban",
+    "vmid": "vm-88"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N03_Dsg123456_184",
+    "vmid": "vm-101"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_K01_Dsg123456_177",
+    "vmid": "vm-62"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos5.4_x32_cdyanfa_k01_140_svn",
+    "vmid": "vm-69"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat4x_xxx_cdyanfa_02",
+    "vmid": "vm-31"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "new_vcenter",
+    "vmid": "vm-112"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_04_134_vmware_测试",
+    "vmid": "vm-98"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "tars1_80",
+    "vmid": "vm-617"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "tars2",
+    "vmid": "vm-618"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata6",
+    "vmid": "vm-250"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x32_N01_cdyanfa",
+    "vmid": "vm-65"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器2号_113",
+    "vmid": "vm-224"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata5",
+    "vmid": "vm-249"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redHat_6.4_dsync_34",
+    "vmid": "vm-629"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata4",
+    "vmid": "vm-248"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata3",
+    "vmid": "vm-247"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_centos6.6_64_template",
+    "vmid": "vm-559"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata1",
+    "vmid": "vm-245"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_3_52_gluster_打包机器",
+    "vmid": "vm-92"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "redhat6.4_x64_cdyanfa_01_133_gluster_测试安装验证_主机gmc",
+    "vmid": "vm-94"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_01",
+    "vmid": "vm-201"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "新建虚拟机",
+    "vmid": "vm-662"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_02",
+    "vmid": "vm-202"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cd_dev_docker2",
+    "vmid": "vm-746"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Ubuntu14_oracle_oracle_124",
+    "vmid": "vm-269"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_03",
+    "vmid": "vm-203"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmfileRestort",
+    "vmid": "vm-445"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_04",
+    "vmid": "vm-204"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_05",
+    "vmid": "vm-205"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cdh_cdyanfa_06",
+    "vmid": "vm-206"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "oracle",
+    "vmid": "vm-236"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos6docker1",
+    "vmid": "vm-942"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster测试机器4号",
+    "vmid": "vm-509"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "OpsManage1",
+    "vmid": "vm-898"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "RedHat5_x32(192.168.2.146)",
+    "vmid": "vm-587"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gluster存储节点_115",
+    "vmid": "vm-667"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2003_x64_N03_331234_108",
+    "vmid": "vm-109"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "VmbackupTmp_Centos6.4_37",
+    "vmid": "vm-823"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos7",
+    "vmid": "vm-940"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Vmbackup_development_6.4",
+    "vmid": "vm-827"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N04_Dsg123456_170",
+    "vmid": "vm-100"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_150_dev",
+    "vmid": "vm-503"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_6.4_x64_test",
+    "vmid": "vm-137"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vdp",
+    "vmid": "vm-409"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "2008_x64_N01_Dsg123456_183",
+    "vmid": "vm-103"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2008_node1(192.168.2.171)",
+    "vmid": "vm-594"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003-exchange-server-192.168.2.147",
+    "vmid": "vm-589"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_150_gluster_yanfa",
+    "vmid": "vm-36"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "win2003-sqlserver2005_sp4-192.168.2.149",
+    "vmid": "vm-590"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "项目进度管理器_30",
+    "vmid": "vm-514"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "AzkabanWeb",
+    "vmid": "vm-733"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220906",
+    "vmid": "vm-343"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c6200G高配模板",
+    "vmid": "vm-345"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "centos_6.4_x64_cdyanfa_softall_151_dev",
+    "vmid": "vm-637"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "test",
+    "vmid": "vm-608"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410308",
+    "vmid": "vm-335"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410305",
+    "vmid": "vm-334"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CRelease",
+    "vmid": "vm-401"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410307",
+    "vmid": "vm-332"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410306",
+    "vmid": "vm-331"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410301",
+    "vmid": "vm-311"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "new_vcenter_21@正常使用中",
+    "vmid": "vm-267"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410303",
+    "vmid": "vm-333"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c410302",
+    "vmid": "vm-319"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "vm_cd_dev_docker1_ubuntu1204",
+    "vmid": "vm-432"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testttt111",
+    "vmid": "vm-789"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Red Hat Enterprise Linux 6 64",
+    "vmid": "vm-240"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgypw",
+    "vmid": "vm-607"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220905",
+    "vmid": "vm-342"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "chengssh",
+    "vmid": "vm-603"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220907",
+    "vmid": "vm-344"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-WIN08_X64_28",
+    "vmid": "vm-680"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgpyw",
+    "vmid": "vm-606"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "cgitlab_22_cdyanfa",
+    "vmid": "vm-403"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgdata2",
+    "vmid": "vm-246"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window7x64_cdyanfa_北京dev1",
+    "vmid": "vm-494"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testqqq23222211",
+    "vmid": "vm-798"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220901",
+    "vmid": "vm-327"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos_6.6X68",
+    "vmid": "vm-296"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220902",
+    "vmid": "vm-336"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "c220903",
+    "vmid": "vm-340"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window2003_125",
+    "vmid": "vm-422"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "CentOS_7_x64",
+    "vmid": "vm-473"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "testqqq11",
+    "vmid": "vm-794"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "windows64模板机",
+    "vmid": "vm-465"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "kafkamc1",
+    "vmid": "vm-649"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "gc-linux-admindsg21",
+    "vmid": "vm-645"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "window7x64_cdyanfa_西安dev1.173.59.160.15_192.168.4.248",
+    "vmid": "vm-476"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "hbaseManager_develop",
+    "vmid": "vm-279"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd1",
+    "vmid": "vm-953"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd7",
+    "vmid": "vm-959"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd6",
+    "vmid": "vm-958"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd8",
+    "vmid": "vm-960"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd2",
+    "vmid": "vm-954"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd5",
+    "vmid": "vm-957"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd4",
+    "vmid": "vm-956"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "eclipse.yanfa.centos6.4",
+    "vmid": "vm-974"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Vmware_release_6.4_37",
+    "vmid": "vm-971"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "Centos6.4_64_4.39_vmware_test",
+    "vmid": "vm-962"
+  },
+  {
+    "isbackup": "0",
+    "vmname": "dsgbd3",
+    "vmid": "vm-955"
+  }
+]

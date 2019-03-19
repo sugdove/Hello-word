@@ -1,0 +1,86 @@
+.btn-group>.btn{
+    margin-right: 4px;
+}
+.vcid_show{
+   color:blue;
+}
+.run{
+}
+.row-details.row-details-close {
+    background: url(../image/datatable-row-openclose.png) no-repeat 0 0;
+}
+.details>table{
+    float: left !important;
+    display: block !important;
+    padding: 12px !important;
+}
+.cchange{
+    display: none;
+    cursor: pointer;
+}
+.details_tr{
+}
+.details_tr:hover{
+    background-color:red;
+}
+.mmm>.dropdown-menu li > a {
+    padding:6px 0 12px 13px !important;
+}
+.dropdown-menu {
+    min-width: 129px !important;
+}
+.dropdown-menu>li>a>i{
+    margin-left: -1px;
+    margin-right: 6px;
+}
+.fa-clock-o:before{
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.glyphicon-hand-up:before {
+    margin-right: 4px;
+}
+.mmm{
+    margin-bottom: 0px !important;
+}
+.btn-group{
+    margin-bottom: 10px;
+}
+.table th, .table td {
+    vertical-align: inherit !important;
+}
+.pad{
+    padding:5px 13px !important;
+    background-color: #45b6af !important;
+}
+
+.btn .caret {
+    margin-left: 4px;
+}
+.fa-angle-down:before {
+    margin-left: 3px;
+}
+.table thead tr th {
+    font-size: 14px;
+    font-weight: 600;
+}
+.cstart{
+    display: none;
+    cursor:pointer;
+}
+.bkid_1{
+    display: none;
+}
+.portlet.box.light-grey{
+    transition: transform 1s;
+}
+/*.portlet.box.light-grey:hover{
+   transform:rotate(20deg);
+}
+.btn.btn.yellow.pad{
+    transition:transform 1s ,background 1s;
+}
+.btn.btn.yellow.pad:hover{
+    transform: rotate(360deg) scale(2,2) skew(20deg,20deg);
+    background: red !important;
+}*/

@@ -1,0 +1,12 @@
+[
+  {
+    "vcip": "192.168.2.21",
+    "vcuser": "administrator@vsphere.local",
+    "vcpasswd": "1qaz@WSX"
+  },
+  {
+    "vcip": "192.168.2.22",
+    "vcuser": "suge",
+    "vcpasswd": "asdf2980130"
+  }
+]

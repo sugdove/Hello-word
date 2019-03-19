@@ -1,0 +1,47 @@
+{
+  "192.168.2.21": [
+    {
+      "manual": [
+        "dsgdata4"
+      ]
+    },
+    {
+      "66663": [
+        "vm_cd_dev_monitor01"
+      ]
+    },
+    {
+      "qweqwe": [
+        "consul4"
+      ]
+    },
+    {
+      "ddddd": [
+        "win7x64_test_cdyanfa",
+        "2003_x64_N01_331234_125"
+      ]
+    },
+    {
+      "sdsdsd": [
+        "docker.centos6.6",
+        "c220908",
+        "centos7docker1.214"
+      ]
+    },
+    {
+      "ssss": [
+        "consul3",
+        "filerestorlinuxtest"
+      ]
+    },
+    {
+      "zxc": [
+        "c220904"
+      ]
+    },
+    {
+      "vcuser": "administrator@vsphere.local",
+      "vcpasswd": "1qaz@WSX"
+    }
+  ]
+}
